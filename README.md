@@ -19,8 +19,9 @@ Task Assignments:
   - Room table
   - Crew table
   - Passenger table
-4. PHP to MySQL database connectivity integration
+4. PHP to MySQL database connectivity integration (Davina)
 5. Readable lists of tables creation
 6. Create and update/edit function's forms creation
 7. Delete function's forms creation
 8. CSS style integration
+9. Add booking room logic    
