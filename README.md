@@ -24,4 +24,4 @@ Task Assignments:
 6. Create and update/edit function's forms creation (Clan)
 7. Delete function's forms creation
 8. CSS style integration (Clan)
-9. Add booking room logic to data.php
+9. Add booking room logic to data.php (Nava)
