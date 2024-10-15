@@ -12,7 +12,7 @@ Project Members:
 Task Assignments:
 1. Developed project goal (Davina)
 2. Created Github Repository with README file (Davina)
-3. MySQL database and tables creation
+3. MySQL database and tables creation (Davina)
   - Ownership table
   - Country table
   - Ferry table
@@ -20,8 +20,8 @@ Task Assignments:
   - Crew table
   - Passenger table
 4. PHP to MySQL database connectivity integration (Davina)
-5. Readable lists of tables creation
+5. Readable lists of tables creation (Nava)
 6. Create and update/edit function's forms creation (Clan)
-7. Delete function's forms creation
+7. Delete function's forms creation (emilia)
 8. CSS style integration (Clan)
-9. Add booking room logic    
+9. Add booking room logic to data.php (Nava)
