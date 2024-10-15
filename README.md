@@ -20,7 +20,7 @@ Task Assignments:
   - Crew table
   - Passenger table
 4. PHP to MySQL database connectivity integration (Davina)
-5. Readable lists of tables creation
+5. Readable lists of tables creation (Nava)
 6. Create and update/edit function's forms creation (Clan)
 7. Delete function's forms creation
 8. CSS style integration (Clan)
