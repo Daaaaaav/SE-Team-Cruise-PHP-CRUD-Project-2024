@@ -1,12 +1,10 @@
 <?php
-/**
- * Check submit button, take data and save to DB
- */
+// Check submit button, take data and save to DB
 require_once("header.php");
 require_once("data.php");
 $db = new DBConnection();
 $errors = [];
-$name = $continent = $ports = ""; // Initialize variables
+$name = $continent = $ports = ""; 
 
 // if there is id in the URL, get data
 if (isset($_GET["id"])) {
