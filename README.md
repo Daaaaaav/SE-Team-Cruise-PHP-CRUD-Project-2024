@@ -21,7 +21,7 @@ Task Assignments:
   - Passenger table
 4. PHP to MySQL database connectivity integration (Davina)
 5. Readable lists of tables creation
-6. Create and update/edit function's forms creation
+6. Create and update/edit function's forms creation (Clan)
 7. Delete function's forms creation
-8. CSS style integration
+8. CSS style integration (Clan)
 9. Add booking room logic    
